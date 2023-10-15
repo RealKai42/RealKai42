@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Kai a passionate self-taught front-end web developer, with a keen interest in information visualization and Human-Computer Interaction (HCI). I love to experiment with new technologies and leverage them to solve real-life problems or just for fun.
+Hi, I'm Kai a passionate self-taught front-end web developer, with a keen interest in information visualization and Human-Computer Interaction (HCI). I love to experiment with new technologies and leverage them to solve real-life problems or **just for fun**.
 <br/>
 
 - 🔭 I’m currently working on [Microsoft](https://www.microsoft.com/)
