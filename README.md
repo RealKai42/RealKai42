@@ -8,6 +8,7 @@ Hi, I'm Kai a passionate self-taught front-end web developer, with a keen intere
 - 🪄 Outside of coding, I have a passion for magic tricks, always eager to add a touch of mystery and wonder to life.
 - 📝 In my coding journey, I've been lucky enough to work at prestigious firms like [HULU(Disney Streaming)](https://hulu.com), [ByteDance](https://www.bytedance.com/en/), and [Ke Holdings](https://investors.ke.com/), where I gained a wealth of experience in my field.
 - 📫 How to reach me: <me@kaiyi.cool>, [Twitter](https://twitter.com/real_kai42)
+- 💻 Discover more about me at [kaiyi.cool](kaiyi.cool)
 
 <br/>
 
